@@ -61,10 +61,9 @@ At **23 years old** from **Uzbekistan 🇺🇿**, I’m on a mission to craft cl
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/oyatillo-meliboyev-aaa9a718b)  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/haligiyigit)  
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel)](https://your-portfolio-link.com)   -->
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/devkokand)
 
 ---
 
